@@ -13,9 +13,20 @@ I’m a Computer Science student at the University of South Carolina interested 
 ---
 
 ## Skills & Tools  
-**Languages:** HTML, CSS, JavaScript, TypeScript, Java, Swift, C++
-**Dev Tools & Workflow:** Git, GitHub, VS Code, WebStorm, Xcode, Jira
-**Interests:** Backend development, clean code practices, API design, responsive interfaces
+**Languages**
+- HTML, CSS  
+- JavaScript, TypeScript  
+- Java, C++, Swift
+
+**Dev Tools & Workflow**
+- Git, GitHub, VS Code  
+- WebStorm, Xcode, Jira
+
+**Interests**
+- Backend development  
+- API design  
+- Clean code practices  
+- Responsive interfaces
 
 ---
 
@@ -31,4 +42,4 @@ I’m a Computer Science student at the University of South Carolina interested 
 ---
 
 ## Connect  
-- Email: ajadams610@comcast.net
+- **Email:** ajadams610@comcast.net
