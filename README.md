@@ -1,32 +1,32 @@
 # Hi, I’m Alexa 
 
-I’m a Computer Science student at the University of South Carolina interested in backend software development and building clean, efficient projects.
+I’m a Computer Science student at the University of South Carolina interested in software development and creating technology for social good. 
 
 ---
 
 ## What I’m Working On  
-- Maintaining and improving my personal portfolio website  
-- Developing TypeScript/JavaScript applications  
-- Continuing to refine my Java and C++ skills through new projects  
-- Expanding my backend knowledge and exploring system design fundamentals
+- Building web and mobile applications using modern frameworks with a focus on user-centered design
+- Leading and collaborating on nonprofit-focused projects
+- Continuing to refine my Java and C++ skills through new projects
 
 ---
 
 ## Skills & Tools  
 **Languages**
-- HTML, CSS  
-- JavaScript, TypeScript  
-- Java, C++, Swift
+- C++
+- Java
+- Python
+- Swift
+- TypeScript
 
-**Dev Tools & Workflow**
-- Git, GitHub, VS Code  
-- WebStorm, Xcode, Jira
+**Frameworks & Tools**
+- Git, GitHub, Linux, Vercel, Jira
+- Next.js, React Query, Tailwind CSS  
 
 **Interests**
-- Backend development  
-- API design  
-- Clean code practices  
+- Full stack development  
 - Responsive interfaces
+- Projects with meaningful impact
 
 ---
 
