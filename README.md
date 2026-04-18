@@ -1,6 +1,6 @@
 # Hi, I’m Alexa 
 
-I’m a Computer Science student at the University of South Carolina interested in software development and creating technology for social good. 
+I’m a Computer Science student at the University of South Carolina interested in full-stack software development and creating technology for social good. 
 
 ---
 
@@ -24,7 +24,8 @@ I’m a Computer Science student at the University of South Carolina interested 
 - Next.js, React Query, Tailwind CSS  
 
 **Interests**
-- Full stack development  
+- Full-stack development
+- Project management
 - Responsive interfaces
 - Projects with meaningful impact
 
@@ -41,4 +42,4 @@ I’m a Computer Science student at the University of South Carolina interested 
 ---
 
 ## Connect  
-- **Email:** ajadams610@comcast.net
+- **Email:** alexaja@email.sc.edu
