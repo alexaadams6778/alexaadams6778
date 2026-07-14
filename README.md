@@ -1,13 +1,13 @@
 # Hi, I’m Alexa 
 
-I’m a Computer Science student at the University of South Carolina interested in full-stack software development and creating technology for social good. 
+I’m a Computer Science student at the University of South Carolina with experience in full-stack development, mobile apps, and product management.
 
 ---
 
 ## What I’m Working On  
-- Building web and mobile applications using modern frameworks with a focus on user-centered design
-- Leading and collaborating on nonprofit-focused projects
-- Continuing to refine my Java and C++ skills through new projects
+- Mobile app for Dedham Health & Athletic Complex (React Native, Expo)
+- Nonprofit website redesign for Create the Space via Develop for Good
+- Vice President of Kappa Theta Pi at UofSC
 
 ---
 
@@ -19,19 +19,15 @@ I’m a Computer Science student at the University of South Carolina interested 
 - Swift
 - TypeScript
 
-**Frameworks & Tools**
-- Git, GitHub, Linux, Vercel, Jira
-- Next.js, React Query, Tailwind CSS  
+**Frameworks**
+- Next.js, React, React Native, Expo, Tailwind, Supabase, Zustand, Sanity
 
-**Interests**
-- Full-stack development
-- Project management
-- Responsive interfaces
-- Projects with meaningful impact
+**Tools**
+- Git, Vercel, Neon, PostgreSQL, Jira, Linux
 
 ---
 
-## Notable Projects  
+## Projects  
 
 | Repo | Description |
 |------|-------------|
@@ -42,4 +38,5 @@ I’m a Computer Science student at the University of South Carolina interested 
 ---
 
 ## Connect  
-- **Email:** alexaja@email.sc.edu
+- **Email:** ajadams610@comcast.net
+- - **LinkedIn:** linkedin.com/in/alexaadams1
